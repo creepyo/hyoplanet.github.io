@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "효플래닛(HyoPlanet)"
 description              : "Study Diary."
 url                      : # the base hostname & protocol for your site e.g. "https://creepyo.github.io/hyoplanet.github.io/"
-baseurl                  : # the subpath of your site, e.g. ""
+baseurl                  : # the subpath of your site, e.g. "/shg4821"
 repository               : # GitHub username/repo-name e.g. "https://github.com/creepyo/hyoplanet.github.io.git"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
